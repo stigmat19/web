@@ -83,7 +83,7 @@ class MobileCompany extends React.PureComponent {
         <div className='MobileCompanyClients'>
           {clientsCode}
         </div>
-        <button>all items</button>
+        <button>all items1</button>
         <button>one item</button>
         <button>add items</button>
         <button>delete items</button>
